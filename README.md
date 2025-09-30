@@ -50,7 +50,8 @@ O projeto foi feito para treinar lógica, uso de sprites e detecção de colisõ
 
 ## 🖼 Demonstração
 
-![Exemplo do jogo](fundoJogoPythonMini.png)
+![Exemplo do jogo](inicio.png)
+![Exemplo do jogo](colisao.png)
 
 ---
 
